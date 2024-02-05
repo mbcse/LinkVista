@@ -40,3 +40,17 @@ LinkVista operates through a sophisticated contract architecture that seamlessly
 LightLink Pegasus Testnet : https://pegasus.lightlink.io/address/0x17A1d8c3C78b5A79A43B80D143bf15F8Cb3F687F
 
 Powered By MoonAI, Lightlink, Elektrik and Blockscout
+
+# Challenges Covered
+I've successfully developed a Telegram bot wallet and a protocol contract on the Light Link blockchain. This cutting-edge solution includes a unique savings feature that automatically rounds up transaction values and securely stores them for users during a specified lock-in period.
+
+Furthermore, I leveraged the advanced capabilities of MoonWallet for seamless wallet creation and transactions, ensuring a streamlined user experience
+
+I have used mostly all features of blockscout like verifying contracts, addings tags, verifying ownership of contracts as per challenege
+
+
+# Testout and Demo Links
+
+Demo video: https://www.loom.com/share/3329e88c77904d69a3f24143e746a7cc?sid=04306efe-ee5e-49f1-b46e-3fd14e09a461
+
+Telegram bot: https://t.me/linkvistabot
